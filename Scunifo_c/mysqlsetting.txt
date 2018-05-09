@@ -1,0 +1,1 @@
+{"refertable": "sq_scuinfo","table": "sq_scuinfo_c","field": ["c_id","comments","img_link","website","time","author","status","word","is_content","refer_id"]}

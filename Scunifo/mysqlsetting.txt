@@ -1,0 +1,1 @@
+{"refertable": "sq_scuin","table": "sq_scuinfo","field":["title","website","time","author","view","reply","status","last_rtime","last_ruser","ofmodule","lastdate"]}
